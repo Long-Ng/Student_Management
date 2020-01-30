@@ -1,0 +1,11 @@
+FirstName,LastName,Province,CGPA,ResearchScore
+Threshold,Corner,NT,4.33,100
+Mason,Morgan,ON,3.50,78
+Corner,Research,QC,3.30,100
+Ethan,Bailey,SK,3.20,81
+Aurora,Foster,BC,2.85,94
+Corner,RScore,MB,3,100
+Delete,Me,NB,4.33,98
+Brooklyn,Alexander,NL,3.65,97
+Find,Me,NT,3.55,96
+Wrong,RScore,NS,3.45,109

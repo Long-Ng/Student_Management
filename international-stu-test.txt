@@ -1,0 +1,9 @@
+FirstName,LastName,Country,CGPA,ResearchScore,Reading,Listening,Speaking,Writing
+Eunyoung,Park,Korea,3.95,100,28,28,30,20
+Same,McNAME,Korea,3.85,91,29,29,29,29
+saME,MCnaME,Korea,3.75,91,30,30,28,29
+Wrong,CGPA,Korea,22,92,24,25,29,30
+Auto,Correct,Idian,3.2,93,23,19,22,26
+Heejin,Jung,India,3.6,94,22,22,23,28
+Exact,CGPA,Iran,3,54,21,21,24,29
+Search,CGPA,China,3,52,20,20,25,26
